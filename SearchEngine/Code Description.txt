@@ -1,0 +1,31 @@
+
+1. `getFilesInFolder`: This function takes a folder name as input and returns a list of all text files
+    present in that folder.
+
+2. `removeStopWords`: This function takes a query as input, tokenizes it using the NLTK library,
+    removes the stop words (commonly occurring words like "the", "a", "an", etc.), and returns the list
+    of remaining words.
+
+3. `getPages`: This function takes a query, an index data list, and a rank data list as input. It checks
+    if the query terms are present in the index data list and returns the pages ranked based on the rank
+    data list.
+
+4. `getDocLength`: This function takes a list of recepten file data as input and returns the lengths
+    of each file.
+
+5. `getCosineSimilarity`: This function takes a list of data and a query as input and calculates the 
+    cosine similarity between them.
+
+6. `getAccumulatedWeights`: This function takes a list of data and a query as input and returns the 
+    accumulated weight of the data.
+
+7. `getTermIncidences`: This function takes the name of a file as input, reads the contents of the 
+    file, preprocesses it by removing punctuation and digits, converts the words to lowercase, applies 
+    stemming, and returns the term incidence matrix and the set of unique words.
+
+8. `getTermDocumentMatrix`: This function takes a folder name as input, reads all the files in the 
+    folder, and creates a 2D list of term document.
+
+9. `getPageRankValues`: This function takes a file name with text links and a base directory as 
+    input, reads the links from the file, calculates the values of page rank and returns a dictionary
+    with page rank values for each text file.

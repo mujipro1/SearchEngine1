@@ -1,0 +1,11 @@
+texts\doc1.txt texts\doc10.txt texts\doc2.txt texts\doc3.txt texts\doc4.txt texts\doc5.txt texts\doc6.txt texts\doc7.txt texts\doc8.txt texts\doc9.txt 
+texts\doc1.txt texts\doc6.txt texts\doc1.txt texts\doc1.txt 
+texts\doc10.txt texts\doc1.txt 
+texts\doc2.txt texts\doc1.txt texts\doc2.txt texts\doc2.txt texts\doc2.txt texts\doc9.txt 
+texts\doc3.txt texts\doc5.txt texts\doc3.txt texts\doc7.txt texts\doc3.txt texts\doc10.txt 
+texts\doc4.txt texts\doc4.txt texts\doc4.txt texts\doc1.txt texts\doc4.txt texts\doc3.txt texts\doc4.txt texts\doc4.txt 
+texts\doc5.txt texts\doc2.txt texts\doc5.txt texts\doc5.txt 
+texts\doc6.txt texts\doc8.txt 
+texts\doc7.txt texts\doc10.txt texts\doc7.txt texts\doc4.txt texts\doc7.txt texts\doc7.txt texts\doc7.txt texts\doc7.txt texts\doc7.txt texts\doc10.txt 
+texts\doc8.txt texts\doc4.txt texts\doc8.txt texts\doc6.txt 
+texts\doc9.txt texts\doc2.txt 
